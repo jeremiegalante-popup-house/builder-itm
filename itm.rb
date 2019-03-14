@@ -1,6 +1,6 @@
 #DEFINE ITM MODULE
 module ITM
-  VERSION = Gem::Version.new("1.0.0")
+  VERSION = Gem::Version.new("2.2.0")
 end
 
 #LOAD MODULE CLASS FILES
